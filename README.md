@@ -1,1 +1,3 @@
-"# IT320-Project" 
+# JAVA SWING GUI APP
+
+## Apache Netbeans Project
